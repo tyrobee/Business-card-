@@ -8511,110 +8511,6 @@
 		(layer "Edge.Cuts")
 		(uuid "f4e3a519-d2f2-4112-a654-c76a529252ea")
 	)
-	(gr_text "DRONE ENTHUSIAST"
-		(at 131.16 91.11 0)
-		(layer "F.Cu")
-		(uuid "0c181e05-0758-4aec-9701-e37474e1bffb")
-		(effects
-			(font
-				(size 0.762 0.762)
-				(thickness 0.1905)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "SHASHANK PULIPATI"
-		(at 106.95 66.82 0)
-		(layer "F.Cu")
-		(uuid "5feccd88-4589-4d63-9959-8f5d5f5da8e0")
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "Engineering Student"
-		(at 118.82 72.95 0)
-		(layer "F.Cu")
-		(uuid "727e8e81-52f0-4a2f-be98-2ced63d640b8")
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.635)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "Email"
-		(at 132.88 76.59 0)
-		(layer "F.Cu")
-		(uuid "b74c8cee-c303-4e6a-ac08-bddfcda8eba7")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "UAV SYSTEMS DESIGNER"
-		(at 131.07 89.25 0)
-		(layer "F.Cu")
-		(uuid "c64e7390-7570-437a-9e3d-b844aff66a5f")
-		(effects
-			(font
-				(size 0.762 0.762)
-				(thickness 0.1905)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "PCB DESIGNER\n"
-		(at 131.1 87.41 0)
-		(layer "F.Cu")
-		(uuid "d077427c-8d38-4c9e-bceb-6892b9a41bc8")
-		(effects
-			(font
-				(size 0.762 0.762)
-				(thickness 0.1905)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "Ph No\n"
-		(at 137.65 79.61 0)
-		(layer "F.Cu")
-		(uuid "f5ba97e8-694f-4739-9853-4b9deb3c4e6f")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "ELECTRONICS ENGINEERING\n"
-		(at 131.06 85.51 0)
-		(layer "F.Cu")
-		(uuid "f8d85f2c-5d48-4ecd-baeb-698bdc69cdc0")
-		(effects
-			(font
-				(size 0.762 0.762)
-				(thickness 0.1905)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "Linked In\n"
 		(at 127.04 82.65 -0)
 		(layer "B.Cu")
@@ -8639,6 +8535,110 @@
 				(bold yes)
 			)
 			(justify left bottom mirror)
+		)
+	)
+	(gr_text "DRONE ENTHUSIAST"
+		(at 131.16 91.11 0)
+		(layer "F.SilkS")
+		(uuid "0c181e05-0758-4aec-9701-e37474e1bffb")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1905)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SHASHANK PULIPATI"
+		(at 106.95 66.82 0)
+		(layer "F.SilkS")
+		(uuid "5feccd88-4589-4d63-9959-8f5d5f5da8e0")
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Engineering Student"
+		(at 118.82 72.95 0)
+		(layer "F.SilkS")
+		(uuid "727e8e81-52f0-4a2f-be98-2ced63d640b8")
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.635)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Email"
+		(at 132.88 76.59 0)
+		(layer "F.SilkS")
+		(uuid "b74c8cee-c303-4e6a-ac08-bddfcda8eba7")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "UAV SYSTEMS DESIGNER"
+		(at 131.07 89.25 0)
+		(layer "F.SilkS")
+		(uuid "c64e7390-7570-437a-9e3d-b844aff66a5f")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1905)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PCB DESIGNER\n"
+		(at 131.1 87.41 0)
+		(layer "F.SilkS")
+		(uuid "d077427c-8d38-4c9e-bceb-6892b9a41bc8")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1905)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Ph No\n"
+		(at 137.65 79.61 0)
+		(layer "F.SilkS")
+		(uuid "f5ba97e8-694f-4739-9853-4b9deb3c4e6f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ELECTRONICS ENGINEERING\n"
+		(at 131.06 85.51 0)
+		(layer "F.SilkS")
+		(uuid "f8d85f2c-5d48-4ecd-baeb-698bdc69cdc0")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1905)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
